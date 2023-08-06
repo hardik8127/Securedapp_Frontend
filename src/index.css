@@ -1,0 +1,541 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero {
+  /* Set the background image URL here */
+
+  background-image: url("./newhomebg.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.client {
+  /* Set the background image URL here */
+
+  background-image: url("./client.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.benefit {
+  /* Set the background image URL here */
+
+  background-image: url("./benefits.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.product {
+  /* Set the background image URL here */
+
+  background-image: url("./producrs.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.audit {
+  /* Set the background image URL here */
+
+  background-image: url("./audit.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.core {
+  /* Set the background image URL here */
+
+  background-image: url("./realcore.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.faq {
+  /* Set the background image URL here */
+
+  background-image: url("./faq.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.foot {
+  /* Set the background image URL here */
+
+  background-image: url("./footer.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.navandflat {
+  /* Set the background image URL here */
+
+  background-image: url("./navandflat.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.scan_schield {
+  /* Set the background image URL here */
+
+  background-image: url("./contract_scanner.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.schield_core {
+  /* Set the background image URL here */
+
+  background-image: url("./schield_core.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.schield_benefit {
+  /* Set the background image URL here */
+
+  background-image: url("./schield_benefit.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.schield_foot {
+  /* Set the background image URL here */
+
+  background-image: url("./schield_ffot.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.res {
+  /* Set the background image URL here */
+
+  background-image: url("./res.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.req {
+  /* Set the background image URL here */
+
+  background-image: url("./request.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.abouthero {
+  /* Set the background image URL here */
+
+  background-image: url("./aboutnavandhero.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.meetteam {
+  /* Set the background image URL here */
+
+  background-image: url("./meettheteam.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.footerInabout {
+  /* Set the background image URL here */
+
+  background-image: url("./images/footerinabout.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.newnav {
+  /* Set the background image URL here */
+
+  background-image: url("./newnav.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.contacthero {
+  /* Set the background image URL here */
+
+  background-image: url("./images/contacthero.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.smartdevbg {
+  /* Set the background image URL here */
+
+  background-image: url("./images/smartdevbg.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.audithero {
+  /* Set the background image URL here */
+
+  background-image: url("./images/audithero.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.auditBenefit {
+  /* Set the background image URL here */
+
+  background-image: url("./images/auditbenefit.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.DappExp {
+  /* Set the background image URL here */
+
+  background-image: url("./images/DAppExp.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: 900px;
+
+  /* Background image should cover the entire element */
+  background-size: contain;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.auditButton {
+  /* Set the background image URL here */
+
+  background-image: url("./images/buttonInAudit.png");
+
+  /* Full height and width of the viewport */
+  width: 309px;
+  height: 56px;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.auditButton1 {
+  /* Set the background image URL here */
+
+  background-image: url("./images/buttonInAudit.png");
+
+  /* Full height and width of the viewport */
+  width: 320px;
+  height: 56px;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.smartdevwork {
+  /* Set the background image URL here */
+
+  background-image: url("./images/newbgforsmdec.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: 890px;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.statsbg {
+  /* Set the background image URL here */
+
+  background-image: url("./images/statsbg.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: 160px;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+.hero1 {
+  /* Set the background image URL here */
+
+  background-image: url("./newhome2.png");
+
+  /* Full height and width of the viewport */
+  width: auto;
+  height: max-content;
+
+  /* Background image should cover the entire element */
+  background-size: cover;
+
+  /* Center the background image */
+  background-position: initial;
+  z-index: 123123121231231;
+
+  /* Optionally, you can set the background attachment to fixed for a fixed background */
+  /* background-attachment: fixed; */
+}
+
+.bg-custom-gradient {
+  background-image: linear-gradient(99.68deg, #12d576, #2d5c8f);
+  /* Other styles for the gradient, if necessary */
+}
+
+.gradient-border {
+  /* border-radius: 41px; */
+  border-width: 5px;
+  border-style: solid;
+  border-image: linear-gradient(to bottom right, #2d5c8f, #12d576);
+  border-image-slice: 1;
+  border-radius: 40px;
+}
